@@ -1,0 +1,6 @@
+The assignment is to implement different memory models: SC, TSO (just relax the write--> read memory order), and
+weak consistency (no memory orders other than fences) and compare their performance.
+
+You will need to look at some of the recent changes to the Tejas causality tool to understand how to make these
+changes. Please start writing the code to implement these models. You need to submit a report. There will also be a
+demo and code walkthrough.
